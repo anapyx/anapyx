@@ -7,23 +7,20 @@
   Hello, I'm Ana!
 </h1>
 
-➔ 👩🏻‍🎓 I'm currently a Computer Science student, in bachelor's degree, at Federal University of Paraíba, in Brazil.
+➔ 👩🏻‍🎓 Computer Science student, in bachelor's degree, at Federal University of Paraíba, in Brazil.
 
-➔ ✨ My current main study interest is Machine Learning and its numerous applications. 
+➔ ✨ Main study interest is Machine Learning and its numerous applications. 
 
-➔ 👩🏻‍💻 I've made projects using C, C++, Java and Python for my classes.
+➔ 👩🏻‍💻 Java and Python are the main languages for my projects.
 
-➔ 🖥️ I use Linux Mint LMDE 5 and Windows 10.
+➔ 🖥️ Linux Mint LMDE 5 and Windows 10.
 
 
 <div align="center">
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   
 </div>
 
@@ -43,9 +40,9 @@
   Other Skills
 </h2>
   
-➔ 🖌️ I like drawing in paper and digital drawing using Krita. I also do video editing (previously in DaVinci Resolve) with Shotcut.
+➔ 🖌️ Main hobbies are drawing in paper or digital drawing using Krita and also video editing.
 
-➔ 💬 Besides communicating with computers, studying languages is one of my hobbies! I'm native in portuguese, fluent in english, intermediate in french and a beginner in chinese and korean :)
+➔ 💬 Besides communicating with computers, I love studying some natural languages! I'm native in portuguese, fluent in english, intermediate in french and a beginner in chinese and korean :)
 
 <h2>
   <img src="https://github.com/anapyx/anapyx/assets/95313202/72671ae1-b451-4425-b3a0-1128946f4537" width="40px"/>
