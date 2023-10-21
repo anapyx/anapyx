@@ -9,8 +9,6 @@
 
 ➔ 👩🏻‍🎓 Computer Science student, in bachelor's degree, at Federal University of Paraíba, in Brazil.
 
-➔ ✨ Main study interest is Machine Learning and its numerous applications. 
-
 ➔ 👩🏻‍💻 Java and Python are the main languages for my projects.
 
 ➔ 🖥️ Linux Mint LMDE 5 and Windows 10.
@@ -20,7 +18,6 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   
 </div>
 
