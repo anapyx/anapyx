@@ -54,5 +54,5 @@
 <img src="https://komarev.com/ghpvc/?username=anapyx&style=flat-square&color=blue" alt="Viewer Count"/>
 
 <div align="center">
-  <img src="https://github.com/anapyx/anapyx/assets/95313202/4054e15e-ced9-4b73-98f6-a0fd1087b988" width="250px"/>
+  <img src="https://github.com/anapyx/anapyx/assets/95313202/4054e15e-ced9-4b73-98f6-a0fd1087b988" width="200px"/>
 </div>
