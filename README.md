@@ -9,11 +9,13 @@
 
 ➔ 👩🏻‍🎓 Computer Science student in bachelor's degree at Federal University of Paraíba (UFPB), in Brazil.
 
-➔ 👩🏻‍💻 Currently part of SISENEX project in LUMO Lab as a backend developer using JavaScript.
+➔ 👩🏻‍💻 Currently part of SISENEX project in LUMO Lab as a Backend Developer using Node.js.
 
-➔ 👩🏻‍💻 Java and Python are the main languages for my projects.
+➔ 👩🏻‍💻 I am also a member of TAIL (Technology and Artificial Intelligence League)! I am currently researching ML on audio signal processing.
 
-➔ 🖥️ I use Linux Mint LMDE 5 and Windows 10.
+➔ 👩🏻‍💻 Python and Java are the main languages for my projects, but I've also made projects in C and C++.
+
+➔ 🖥️ I use Pop-OS and Windows 10.
 
 
 <div align="center">
@@ -42,9 +44,9 @@
   Other Skills
 </h2>
   
-➔ 🖌️ Main hobbies are reading, gaming and drawing in paper or digital drawing using Krita.
+➔ 🖌️ Main hobbies are playing the piano and gaming.
 
-➔ 💬 Besides communicating with computers, I love studying some natural languages! I'm native in portuguese, advanced in english, intermediate in french and a beginner in chinese :)
+➔ 💬 Besides communicating with computers, I love studying some natural languages! I'm native in Portuguese, advanced in English, intermediate in French and a beginner in Chinese :)
 
 <h2>
   <img src="https://github.com/anapyx/anapyx/assets/95313202/72671ae1-b451-4425-b3a0-1128946f4537" width="35px"/>
