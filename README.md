@@ -7,7 +7,7 @@
   Hello, I'm Ana!
 </h1>
 
-➔ 👩🏻‍🎓 Computer Science student in bachelor's degree at Federal University of Paraíba (UFPB), in Brazil.
+➔ 👩🏻‍🎓 Computer Science undergraduate student in a Bachelor's Degree at Federal University of Paraíba (UFPB), Brazil.
 
 ➔ 👩🏻‍💻 Currently part of SISENEX project in LUMO Lab as a Backend Developer using Node.js.
 
