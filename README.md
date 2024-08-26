@@ -9,7 +9,7 @@
 
 ➔ 👩🏻‍🎓 Computer Science undergraduate student in a Bachelor's Degree at Federal University of Paraíba (UFPB), Brazil.
 
-➔ 👩🏻‍💻 Currently part of SISENEX project in LUMO Lab as a Backend Developer using Node.js.
+➔ 👩🏻‍💻 Currently part of SISENEX project in LUMO Lab as a Software Developer.
 
 ➔ 👩🏻‍💻 I am also a member of TAIL (Technology and Artificial Intelligence League)! I am currently researching ML on audio signal processing.
 
