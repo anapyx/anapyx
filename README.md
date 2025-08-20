@@ -9,13 +9,13 @@
 
 ➔ 👩🏻‍🎓 Computer Science undergraduate student in a Bachelor's Degree at Federal University of Paraíba (UFPB), Brazil.
 
-➔ 👩🏻‍💻 Currently part of Bioinova team by FAPESQ and ARIA Lab, and the SisEnex team in LUMO Lab as a Software Developer.
+➔ 👩🏻‍💻 Currently part of Bioinova team by FAPESQ and ARIA Lab as a Software Developer, and in the SisEnex team in LUMO Lab as a Software Development Manager.
 
-➔ 👩🏻‍💻 I am also a member of TAIL (Technology and Artificial Intelligence League)! I am currently doing NLP projects.
+➔ 👩🏻‍💻 I am also a member of TAIL (Technology and Artificial Intelligence League)! I am currently doing projects on Natural Language Processing.
 
-➔ 👩🏻‍💻 Python and Javascripts are my working languages, I've also made projects in Java, C and C++.
+➔ 👩🏻‍💻 Python is my main language, but I've also made projects in JS, Java, C and C++.
 
-➔ 🖥️ I use Pop-OS and Windows 10 & 11.
+➔ 🖥️ I use Pop-OS, Windows 11, and WSL with Ubuntu.
 
 
 <div align="center">
@@ -43,10 +43,8 @@
   <img src="https://github.com/anapyx/anapyx/assets/95313202/13b43b18-d440-4ea6-8f56-72ab6c9957ba" width="40px"/>
   Other Skills
 </h2>
-  
-➔ 🖌️ Main hobbies are playing the piano and gaming.
 
-➔ 💬 Besides communicating with computers, I love studying some natural languages! I'm native in Portuguese, advanced in English, intermediate in French. I also study Chinese and Korean for fun :)
+➔ 💬 Besides communicating with computers, I love studying some natural languages! I'm native in Portuguese, advanced in English and I study other languages for fun :)
 
 <h2>
   <img src="https://github.com/anapyx/anapyx/assets/95313202/72671ae1-b451-4425-b3a0-1128946f4537" width="35px"/>
